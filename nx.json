@@ -21,6 +21,9 @@
     },
     "e2e": {
       "cache": true
+    },
+    "build-custom-server": {
+      "cache": true
     }
   },
   "namedInputs": {
